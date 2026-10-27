@@ -1,0 +1,6 @@
+.venv-app/
+runtime/
+__pycache__/
+*.pyc
+python-*-amd64.exe
+selected_no_overlap/

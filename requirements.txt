@@ -1,0 +1,12 @@
+numpy
+pandas
+pillow
+tifffile
+scikit-image
+scikit-learn
+matplotlib
+tqdm
+torch
+torchvision
+streamlit
+
